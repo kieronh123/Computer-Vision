@@ -1,5 +1,6 @@
 <?xml version="1.0"?>
 <package format="2">
+  <build_depend>geometry_msgs</build_depend>
   <name>lab2</name>
   <version>0.0.0</version>
   <description>The test package</description>
